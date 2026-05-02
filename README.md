@@ -12,6 +12,7 @@ A high-fidelity Python application for designing and visualizing cylindrical bat
 *   **Interactive View**: Full support for rotation, zooming, and panning via the integrated Matplotlib navigation toolbar.
 
 ## Screenshots
+<img width="1920" height="1023" alt="Snipaste_2026-05-02_08-58-15" src="https://github.com/user-attachments/assets/9c2590b7-f171-451e-b372-128fb124f449" />
 
 
 | Configuration Sidebar | 3D Busbar Layout |
