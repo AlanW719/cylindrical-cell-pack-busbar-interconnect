@@ -17,7 +17,7 @@ A high-fidelity Python application for designing and visualizing cylindrical bat
 
 | Configuration Sidebar | 3D Busbar Layout |
 | :--- | :--- |
-| ![Sidebar](https://placeholder.com) | ![3D View](https://placeholder.com) |
+
 | *Professional Dark Mode UI* | *Copper interconnects and polarity indicators* |
 
 ## Tech Stack
