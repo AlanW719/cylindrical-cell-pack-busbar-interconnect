@@ -48,16 +48,16 @@ pip install matplotlib numpy
 
 ## Changelog
 
-### v1.2.0
+### v1.3.0
 *   **UI Overhaul**: Implemented a dark theme with increased font sizes for better legibility on high-resolution displays.
 *   **Stability**: Added Multi-threading to prevent UI freezing during large-scale pack renders.
 *   **Navigation**: Embedded standard Matplotlib Navigation Toolbar for precise zoom and pan control.
 
-### v1.1.0
+### v1.2.0
 *   **Copper Logic**: Implemented dual-side busbar rendering with automated series-bridging logic.
 *   **Responsive Design**: Added grid weights to allow the 3D canvas to expand to full screen.
 
-### v1.0.0
+### v1.1.0
 *   Initial release with basic Series/Parallel configuration and 3D cylinder rendering.
 
 ---
