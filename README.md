@@ -1,5 +1,3 @@
-# cylindrical-cell-pack-busbar-interconnect
-
 # Cylindrical Cell Battery Pack Designer - Busbar Interconnect Layout
 
 A high-fidelity Python application for designing and visualizing cylindrical battery packs. This tool provides real-time 3D rendering of cell configurations, polarity flipping, and copper busbar interconnects with a professional engineering interface.
